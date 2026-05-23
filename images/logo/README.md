@@ -1,0 +1,1 @@
+Subpasta para logos (ex: `logo.svg`, `logo@2x.png`).

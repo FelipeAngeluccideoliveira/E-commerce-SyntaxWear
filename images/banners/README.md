@@ -1,0 +1,1 @@
+Subpasta para banners (headers, hero images).

@@ -1,0 +1,1 @@
+Pasta para ícones SVG. Coloque cada ícone como `nome.svg`.

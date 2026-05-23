@@ -1,0 +1,1 @@
+Pasta para fontes self-hosted. Ex: `woff2`, `woff`.

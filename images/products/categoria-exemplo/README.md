@@ -1,0 +1,1 @@
+Coloque aqui imagens da categoria de exemplo. Crie outras subpastas por categoria conforme necessário.

@@ -1,0 +1,1 @@
+Coloque aqui os arquivos de favicon (.ico, .png, manifest e imagens para diferentes resoluções).

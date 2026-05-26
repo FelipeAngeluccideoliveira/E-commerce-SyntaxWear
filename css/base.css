@@ -1,4 +1,5 @@
 /* base.css — reset leve, tipografia global, variáveis e utilitários */
 body{
     font-family: var(--fonte-principal);
+    color: #333333;
 }
